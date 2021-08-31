@@ -1,4 +1,8 @@
 # hello-world
-A Random repository
+#include <iostream>
+using namespace std ;
 
-i like to code and play football
+int main(){
+  cout<<"Hello World";
+  return 0;
+}
